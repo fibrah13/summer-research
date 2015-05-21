@@ -1,0 +1,76 @@
+use warnings;
+use strict;
+
+use List::Util qw(first);
+
+my %days_in_months = (
+ 'Jan' => 31,
+ 'Feb' => 29,
+ 'Mar' => 31,
+ 'Apr' => 30,
+ 'May' => 31,
+ 'Jun' => 30,
+ 'Jul' => 31,
+ 'Aug' => 31,
+ 'Sep' => 30,
+ 'Nov' => 30,
+ 'Dec' => 31
+);
+
+my @days_of_the_week = ('Sun','Mon', 'Tue', 'Wed', 'Thu', 'Fri','Sat');
+
+sub PrintHeaders {
+ print "Sun\tMon\tTue\tWed\tThu\tFri\tSat\n";
+}
+
+sub GetDayOfWeekIndex {
+ my $day_of_the_week_name = shift;
+ my $index_value = first { $days_of_the_week[$_] eq $day_of_the_week_name } 0 .. $#days_of_the_week;
+ return $index_value;
+}
+
+
+
+sub PrintCalendar {
+ my($month, $start_day) = @_;
+ my $start_day_of_the_week = GetDayOfWeekIndex $start_day;
+ my $day_of_week_counter = 0;
+}
+
+#####################################################
+print GetDayOfWeekIndex('Tue') . "\n";
+
+=shit 
+
+ if($start_day_of_the_week != $day_of_week_counter)
+ {
+  # -1 is used here because we need to loop this for
+  # the days up to but not including the start day of
+  # the week
+  for my $i (0..($start_day_of_the_week-1))
+ {
+  print "\t";
+ }
+
+  $day_of_week_counter = $start_day_of_the_week;
+ }
+
+ for my $day (1..$days_in_months{$month})
+ {
+  print $day;
+
+  if($day_of_week_counter == $#days_of_the_week)
+  {
+   print "\n";
+   $day_of_week_counter = 0;
+  }
+  else
+  {
+   print "\t";
+   $day_of_week_counter++;
+  }
+ } ## end for
+
+}
+
+
