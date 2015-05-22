@@ -6,3 +6,6 @@ Week one: - Work on familiarizing myself with Perl, the Jupyter notebook and the
 
 Week two: -  Continue constructing z matrices of the amino acids using coordinates from PDB and using VMD to visualize the structures. Also started learning to push and pull from github so there is always a back up of the files.
 
+Introduction
+Methods
+Results and Discussion
