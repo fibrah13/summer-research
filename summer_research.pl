@@ -9,3 +9,4 @@ Week two: -  Continue constructing z matrices of the amino acids using coordinat
 Introduction
 Methods
 Results and Discussion
+Conclusion
