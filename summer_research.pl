@@ -8,6 +8,6 @@ Week two: -  Continue constructing z matrices of the amino acids using coordinat
 
 Introduction
 Methods 
-Talk about HackaMol
+Talk about HackaMol and then talk about linux too
 Results and Discussion
 Conclusion
