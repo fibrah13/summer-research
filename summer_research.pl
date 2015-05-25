@@ -8,8 +8,12 @@ Week two: -  Continue constructing z matrices of the amino acids using coordinat
 
 Introduction
 Methods 
-Talk about HackaMol and then talk about linux too
-read demians article and then come up with a method
-talk about the programs created and vi and how we used vmd. we convert z matrices to internal coordinates
+
+Constructing Z matrices of Amino acids.
+The coordinates of the individual acids are obtained from the protein data bank on www.pdb.org. The text editor vi is then used to organize the coordinates and then visualize them in VMD. The actual bond lengths, bond angles, and dihedrals are measured and used to create new coordinates. The program trans.pl created using extensions from HackaMol is then used to translate the coordinates of the protein so that the backbone of the protein has a center of mass which is very close to zero. A program hbuild is then created again using the HackaMol extensions to place hydrogens on the amino acid molecule.
+Give a summary of each of the following
+VMD
+VIM
+
 Results and Discussion
 Conclusion
