@@ -10,5 +10,6 @@ Introduction
 Methods 
 Talk about HackaMol and then talk about linux too
 read demians article and then come up with a method
+talk about the programs created and vi and how we used vmd. we convert z matrices to internal coordinates
 Results and Discussion
 Conclusion
