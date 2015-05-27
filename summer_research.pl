@@ -29,7 +29,7 @@ Linux
 HackaMol
 PERL...
 
-maybe do not talk about the little softwares
+maybe do not talk about the little softwares, instead focus more on Hackamol because the little softwares are not the main focus and may not want to be read about i guess. 
 
 Results and Discussion
 Conclusion
