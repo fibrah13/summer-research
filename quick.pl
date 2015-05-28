@@ -73,4 +73,14 @@ print GetDayOfWeekIndex('Tue') . "\n";
 
 }
 
+Summer To-do List
+Read about the Forex industry and how it works
+Read about Communism, Tsar, Nationalism, Orthodoxy, imperialists, Soviet Union, Marxist, Socialism.
+Repubilicans vs. Democrats
+China and Tibet. Dalai Llama
+Work on GRE vocabulary
+Get better at Russian language
+work on demo account everyday
+Read more Novels
+
 
