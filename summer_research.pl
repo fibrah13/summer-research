@@ -33,3 +33,6 @@ maybe do not talk about the little softwares, instead focus more on Hackamol bec
 
 Results and Discussion
 Conclusion
+
+week 3
+this week we worked on the scripts and try to reproduce results from demians paper on how heavy metals like mercury affect the disulfide bond. plotly was used as the software for graphing. we then worked on using quantum chemistry to calculate the energies of the different pdb's with disulfide bonds. 
