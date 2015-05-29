@@ -82,5 +82,6 @@ Work on GRE vocabulary
 Get better at Russian language
 work on demo account everyday
 Read more Novels
-
+work on the stock stuff
+find a way to get in contact with tkya
 
