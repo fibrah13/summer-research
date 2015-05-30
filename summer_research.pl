@@ -36,3 +36,8 @@ Conclusion
 
 week 3
 this week we worked on the scripts and try to reproduce results from demians paper on how heavy metals like mercury affect the disulfide bond. plotly was used as the software for graphing. we then worked on using quantum chemistry to calculate the energies of the different pdb's with disulfide bonds. 
+
+questions to be answered?
+what is the main goal? what are we working towards and why?
+how do we make this simple and easy to understand but also interesting?
+
