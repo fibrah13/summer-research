@@ -40,4 +40,5 @@ this week we worked on the scripts and try to reproduce results from demians pap
 questions to be answered?
 what is the main goal? what are we working towards and why?
 how do we make this simple and easy to understand but also interesting?
-
+ disulfide bonds help with stability and monomer-dimer equilibration.
+these bonds help with the beta sheet structure .read more
