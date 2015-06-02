@@ -43,3 +43,4 @@ how do we make this simple and easy to understand but also interesting?
  disulfide bonds help with stability and monomer-dimer equilibration.
 these bonds help with the beta sheet structure .read more 
 After reading the paper, it seems the main aim is to prove the uses of HackaMol and how it may make life easier when dealing with molecular structures and energies. The paper then uses disulfide bonds in molecular systems as the example to test out the software. Disulfide bonds have...
+actually this idea was for the first part of his paper. the second part focuses more on disulfide bonds and their structures. now the question is why exactly do we want to study the structure of disulfide bonds. maybe so we can see how it interacts with other things and why heavy metals are not good for interactions with disulfide bonds.
