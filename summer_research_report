@@ -1,0 +1,20 @@
+  Summer Research 2015 
+Demian Riccardi, Fadilah Ibrahim, Saujan Kaufle, Soren Rasmussen.
+
+Goals
+The aims of this research were to learn how to use and improve the software HackaMol “open source, object oriented toolkit written in Modern Perl that organizes atoms within molecules and provides chemically intuitive attributes and methods.” In order to do this the effect of heavy metals on disulfide bonds in biological systems was investigated. This led to a better understanding of how the programming languages work and the various ways in which they could be manipulated to visualize different molecules of focus.
+
+Introduction
+It is well known that proteins are vital to the human body as they are the building blocks of all living things. These proteins happen to have different structures based on how their folded and thus leading to certain bonds formed to maintain these structures. Disulfide bonds, one of the main focuses of this research, are one of the types of bonds that hold these structures together. These disulfide bonds can be found in the beta sheet structure of proteins and aid in stabilty and monomer-dimer equilibration. The disulfide bond is made up of two sulfur atoms and some of the functions of this bond are dependent on the potential energy stored in the bond. Thus when the bond is exposed to a heavy metal such as Mercury, there is some disruption and the energy stored is changed thereby reducing altering the spring nature of the molecule and affecting the functions that rely on the potential energy that the bond stores. HackaMol, is used to characterize the structure and the energetics of the disulfide bonds in the protein data bank when they in their original state and when they interact with mercury. The results will be used to study how the mercury-sulfur complexes can interact with protein and whether they are desirable or not.
+
+Methods
+All the methods are carried out using the Programming Language PERL* either on the unix shell or the iperl notebook. The initial task was to create z matrices of all the amino acids and then visualizE them on the Visual Molecular Dynamics Software (VMD). The original coordinates were taken from the protein data bank on PDB.org and then edited on the default visual editor for unix. VMD was used to obtained the raw z matrices and then the new file was converted from zmat to xyz format so that both cartesian and internal coordinates were obtained. This was fed into ‘reply’ and then ‘blessed’ before reopening the file in vmd to visualize the molecules. The new z matrices where then pushed into the HackaMol repository on github to be stored as a backup. 
+
+HackaMol->new->read_file_mol('filename.zmat')->print_xyz
+HackaMol->new->read_file_mol('filename.zmat')->print_xyz('filename.xyz');1
+overwrite filename.xyz at reply input line 1.
+$res[#] = bless( \*Symbol::GEN8, 'FileHandle' )
+$res[3]->close
+vmd 'shit.xyz'
+The matrices created for the amino acids were however not protonated so the next step was to use HackaMol::Nerf a sub program under  
+
