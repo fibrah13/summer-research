@@ -83,5 +83,7 @@ Get better at Russian language
 work on demo account everyday
 Read more Novels
 work on the stock stuff
-find a way to get someone to change ticket
+find a way to get someone to change ticket 
+work on molecules
+
 
