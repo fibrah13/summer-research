@@ -86,4 +86,4 @@ work on the stock stuff
 find a way to get someone to change ticket 
 work on molecules
 
-
+done with ayn rand moved to tom clancy
