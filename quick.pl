@@ -88,3 +88,4 @@ work on molecules
 
 done with ayn rand moved to tom clancy
 start thinking of poster
+find out more about DSE
