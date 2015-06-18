@@ -89,4 +89,5 @@ work on molecules
 done with ayn rand moved to tom clancy
 start thinking of poster
 find out more about DSE
-work on todo
+work on todo.
+mac arrived today. look into love culture
