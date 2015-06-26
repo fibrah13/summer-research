@@ -79,14 +79,12 @@ Read about Communism, Tsar, Nationalism, Orthodoxy, imperialists, Soviet Union, 
 Repubilicans vs. Democrats
 China and Tibet. Dalai Llama
 Work on GRE vocabulary
-Get better at Russian language
-work on demo account everyday
-Read more Novels
+
 work on the stock stuff
-find a way to get someone to change ticket 
+
 work on molecules
 
-done with ayn rand moved to tom clancy
+
 start thinking of poster
 find out more about DSE
-work on rides
+
